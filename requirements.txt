@@ -1,0 +1,9 @@
+# Dependensi awal untuk rencana API. Belum diuji sebagai satu lingkungan.
+# Versi akan dikunci setelah implementasi dan pengujian.
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+
+# Tambahkan dependensi training/inference setelah framework model disepakati.
+# Jangan menganggap daftar ini sebagai lingkungan training yang sudah lengkap.
